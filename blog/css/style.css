@@ -1,0 +1,20 @@
+body{
+  outline-width:3px;
+  outline-style:solid;
+  outline-color:black;
+}
+
+.red_box{
+  color:red;
+  outline-width:3px;
+  outline-style:solid;
+  outline-color:black;
+}
+
+.blue_box{
+  color:blue;
+}
+
+.yellow_box{
+  color:yellow;
+}
